@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<!-- Configuration overrides used during unit tests. -->
+
+<htmlparser-conf>
+<!-- URL normalizer properties -->
+
+<property>
+  <name>urlnormalizer.class</name>
+  <value>Winista.Search.Nutch.Net.BasicUrlNormalizer</value>
+  <description>Name of the class used to normalize URLs.</description>
+</property>
+
+</htmlparser-conf>

@@ -1,0 +1,16 @@
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Release\Jfw.HtmlKit.dll
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Release\Jfw.HtmlKit.pdb
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\obj\Release\ResolveAssemblyReference.cache
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\obj\Release\Jfw.HtmlKit.dll
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\obj\Release\Jfw.HtmlKit.pdb
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Debug\Jfw.HtmlKit.dll
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Debug\Jfw.HtmlKit.pdb
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\obj\Debug\ResolveAssemblyReference.cache
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\obj\Debug\Jfw.HtmlKit.dll
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\obj\Debug\Jfw.HtmlKit.pdb
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Release\MySql.Data.dll
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Debug\MySql.Data.dll
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Debug\HtmlAgilityPack.dll
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Debug\HtmlAgilityPack.pdb
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Release\HtmlAgilityPack.dll
+E:\Works\Projects\HtmlApp\Jfw.HtmlKit\bin\Release\HtmlAgilityPack.pdb

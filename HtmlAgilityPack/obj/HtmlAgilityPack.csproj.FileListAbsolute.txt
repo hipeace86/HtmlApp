@@ -1,0 +1,30 @@
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\bin\Release\HtmlAgilityPack.dll
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\bin\Release\HtmlAgilityPack.pdb
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\obj\Release\HtmlAgilityPack.dll
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\obj\Release\HtmlAgilityPack.pdb
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+C:\Documents and Settings\Administrator\My Documents\下载\1.3.0\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\obj\Debug\ResolveAssemblyReference.cache
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\bin\Release\HtmlAgilityPack.dll
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\bin\Release\HtmlAgilityPack.pdb
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\obj\Release\ResolveAssemblyReference.cache
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\obj\Release\HtmlAgilityPack.dll
+E:\Works\Projects\InfoCollection\HtmlAgilityPack\obj\Release\HtmlAgilityPack.pdb
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\obj\Debug\ResolveAssemblyReference.cache
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\bin\Release\HtmlAgilityPack.dll
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\bin\Release\HtmlAgilityPack.pdb
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\obj\Release\ResolveAssemblyReference.cache
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\obj\Release\HtmlAgilityPack.dll
+E:\Works\Projects\HtmlApp\HtmlAgilityPack\obj\Release\HtmlAgilityPack.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlApp", "HtmlApp\HtmlApp.csproj", "{5A1DA3C0-60A5-4B48-8D5A-08BFE6BB6A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jfw.HtmlKit", "Jfw.HtmlKit\Jfw.HtmlKit.csproj", "{EAEC7897-DCF5-48EA-98A4-65B5010E5580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPack", "HtmlAgilityPack\HtmlAgilityPack.csproj", "{193BB801-054F-4729-9D5D-FCE1E32594BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A1DA3C0-60A5-4B48-8D5A-08BFE6BB6A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1DA3C0-60A5-4B48-8D5A-08BFE6BB6A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1DA3C0-60A5-4B48-8D5A-08BFE6BB6A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1DA3C0-60A5-4B48-8D5A-08BFE6BB6A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEC7897-DCF5-48EA-98A4-65B5010E5580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEC7897-DCF5-48EA-98A4-65B5010E5580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEC7897-DCF5-48EA-98A4-65B5010E5580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEC7897-DCF5-48EA-98A4-65B5010E5580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193BB801-054F-4729-9D5D-FCE1E32594BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193BB801-054F-4729-9D5D-FCE1E32594BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193BB801-054F-4729-9D5D-FCE1E32594BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193BB801-054F-4729-9D5D-FCE1E32594BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
