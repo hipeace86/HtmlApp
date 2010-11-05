@@ -37,6 +37,7 @@
   <ItemGroup>
     <Compile Include="AbstractHtml.cs" />
     <Compile Include="BaiTuNews.cs" />
+    <Compile Include="CupEduHtml.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="PatentDetailHtml.cs" />
     <Compile Include="PatentIdHtml.cs" />
